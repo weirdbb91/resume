@@ -1,7 +1,7 @@
 
-![draw](https://user-images.githubusercontent.com/50126248/135090772-9f1a1d38-e6dc-4d0f-8512-36b22c790f56.png)
+<!-- ![draw](https://user-images.githubusercontent.com/50126248/135090772-9f1a1d38-e6dc-4d0f-8512-36b22c790f56.png) -->
  
-# 긍정적인 백엔드 개발자 백승호입니다
+# 백엔드 개발자 백승호입니다
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fweirdbb91%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) ![Hits](https://img.shields.io/github/followers/weirdbb91?label=Follow)
 
