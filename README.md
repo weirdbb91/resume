@@ -10,7 +10,40 @@
 <br><br>
 
 
-# 🏢 Gogiro110(2021.04 ~ 현재)  
+# 🏢 Wemember(2021.11 ~ 현재)  
+
+## 여행 경험 공유 플랫폼 - 백엔드 개발
+![Python](https://img.shields.io/badge/Python-3776ab?style=plastic&logo=Python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009485?style=plastic&logo=FastAPI&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=plastic&logo=PostgreSQL&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-007bff?style=plastic&logo=Docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-orange?style=plastic&logo=Amazon-AWS&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=plastic&logo=Swagger&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=Git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=Figma&logoColor=white)
+![Jandi](https://img.shields.io/badge/Jandi-85EA2D?style=plastic&logo=Jandi&logoColor=white)
+
+11월부터 입사해 현재까지 제가 작업한 부분은 아래와 같습니다
+- 목록 반환시 페이징 처리 후 메타 데이터와 함께 반환
+  - PageMeta(total, size, page, has_next)
+- 토큰 생성/검증
+  - 헤더로 반환, 브라우저 헤더 접근 허용 설정(expose headers)
+  - 엑세스/리프레시, 각각 다른 시크릿 키, 만료시간
+  - 토큰 리프레시
+  - 토큰 입력을 옵셔널로 처리해 로그인/비로그인 사용자 요청처리
+  - 각 상황에 맞는 예외처리(토큰이 필수인 요청에서의 토큰 미입력, 시그니처 불일치, 기간 만료, 권한 부족)
+- 익셉션 핸들러(미들웨어)
+  - 발생한 각 예외들에 따라 클라이언트로 반환되는 에러코드, 메시지 등을 한곳에서 통합 관리
+- 카카오 알림톡(API STORE)
+- AWS S3 이미지 업로드/삭제 - boto3
+- docker-compose(로컬에서 서버, DB 이미지빌드/배포/연결/초기화/더미데이터/테스트)
+- TestClient로 테스트 코드 작성
+- API 작성/수정
+- API 명세 작성
+
+
+
+# 🏢 Gogiro110(2021.04 ~ 2021.10)  
 
 ## 대면 거래 불참 방지 안전거래 솔루션 - 백엔드 개발
 ![Python](https://img.shields.io/badge/Python-3776ab?style=plastic&logo=Python&logoColor=white)
