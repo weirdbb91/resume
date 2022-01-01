@@ -10,7 +10,7 @@
 <br><br>
 
 
-# 🏢 Wemember(2021.11 ~ 현재)  
+# 🏢 Wemember(2021.11 ~ 2021.12)  
 
 ## 여행 경험 공유 플랫폼 - 백엔드 개발
 ![Python](https://img.shields.io/badge/Python-3776ab?style=plastic&logo=Python&logoColor=white)
